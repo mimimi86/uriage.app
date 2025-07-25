@@ -25,3 +25,6 @@
 5. 「会計」ボタンで売上を登録します。  
 6. 「PDF出力」ボタンで売上日報をPDFでダウンロードします。
 
+## YouTubeリンク
+
+https://youtu.be/odhtqA2Zkpc
